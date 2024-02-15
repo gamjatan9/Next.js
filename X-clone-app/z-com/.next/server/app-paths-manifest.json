@@ -1,1 +1,3 @@
-{}
+{
+  "/(beforeLogin)/@modal/(.)i/flow/login/page": "app/(beforeLogin)/@modal/(.)i/flow/login/page.js"
+}
